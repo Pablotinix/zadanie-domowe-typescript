@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "none",
+    "rootDir": "./src",
+    "outFile": "./public/skrypt.js",
+    "strict": false
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
