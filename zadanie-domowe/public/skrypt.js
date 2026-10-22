@@ -17,6 +17,7 @@ button.addEventListener("click", function () {
         nazwa: Wpisnazwy,
         ilosc: Number(Wpisanailosc)
     });
+    console.log(magazyn);
     Polenazwy.value = "";
     Poleilosci.value = "";
 });
